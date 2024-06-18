@@ -136,7 +136,7 @@
 //#define BLUETOOTH
 
 // Name displayed in the LCD "Ready" message and Info menu
-#define CUSTOM_MACHINE_NAME "Makergear M2 BTT SKR 1.4 Turbo"
+#define CUSTOM_MACHINE_NAME "Oliver Rew's Makergear M2 BTT SKR 1.4 Turbo"
 
 // Printer's unique ID, used by some programs to differentiate between machines.
 // Choose your own or use a service like https://www.uuidgenerator.net/version4
